@@ -1,2 +1,2 @@
 # Edge_Cooperative_Computing_System
-基于编码的边缘协作计算系统
+基于编码的边缘协作计算系统(Parallel Python实现)
